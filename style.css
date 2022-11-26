@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(27,51,60);
+}
+.card{
+    background-image: linear-gradient(to right, rgb(221,202,163), rgb(64,83,82));
+    border-radius: 10px;
+    border: none;
+}
+button{
+
+    background: none !important;
+    border-radius: 10px;
+}
+.card-header{
+    border-top-left-radius: 8px !important;
+    border-top-right-radius: 8px !important;
+}
+img{
+    border-radius: 5px;
+}
